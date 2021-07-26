@@ -1,0 +1,1 @@
+My university computer lab for some reasons doesn't allow us to go to start menu which makes it hard for me to open ppt, docx , cpp files (it's super annoying ) usually I use to go on PowerShell and enter commands there such as "notepad name.cpp" etc. so I made a simple script which does this for me it's nothing special 👍
